@@ -41,7 +41,7 @@ export const AllProjects: Projects = [
     useEffect,useState. &
     usePathname from next/navigation
     I made a file containing all the data used on the site and it is prepared as a local database making it easier to add and update.`,
-    img: "portofolio.jpg",
+    img: "/project/portofolio.jpg",
     type: "nextjs",
     tools: ['Next Js', 'React', 'Tailwind css ', 'typescript'],
     demo: "https://profile-gamma-coral.vercel.app/",
