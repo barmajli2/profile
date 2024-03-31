@@ -30,7 +30,7 @@ const AboutPage = () => {
             3000
         );
         return () => clearInterval(interval);
-    }, []);
+    });
     return (
         <section className="container mx-auto my-12">
             <div className=" flex flex-col md:flex-row md:h-[calc(100vh-4rem)]">
