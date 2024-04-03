@@ -47,6 +47,18 @@ export const AllProjects: Projects = [
     demo: "https://profile-gamma-coral.vercel.app/",
     repo: "https://github.com/barmajli2/profile",
   },
+  {
+    id: 3,
+    path: "/projects/3",
+    title: "Guarder Website",
+    desc: `The site of a company offers personal guards.
+    Evidence of the company is shown and the guards are sold.`,
+    img: "/project/guard.png",
+    type: "puer",
+    tools: ['HTML', 'CSS', 'Js', 'Fontawesome'],
+    demo: "https://barmajli2.github.io/Guards/",
+    repo: "https://github.com/barmajli2/Guards",
+  },
 ];
 
 // Navbar links Router
