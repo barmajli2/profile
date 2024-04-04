@@ -67,8 +67,8 @@ export const AllProjects: Projects = [
     img: "/project/sliderTask.png",
     type: "puer",
     tools: ['HTML', 'CSS', 'Js', 'Fontawesome'],
-    demo: "https://github.com/barmajli2/Slider-Task",
-    repo: "https://slider-task-seven.vercel.app/",
+    repo: "https://github.com/barmajli2/Slider-Task",
+    demo: "https://slider-task-seven.vercel.app/",
   },
 ];
 
