@@ -59,6 +59,17 @@ export const AllProjects: Projects = [
     demo: "https://barmajli2.github.io/Guards/",
     repo: "https://github.com/barmajli2/Guards",
   },
+  {
+    id: 4,
+    path: "/projects/4",
+    title: "Image Slider",
+    desc: `It is a photo viewer and has regular movement at a specific time and responsive to all screens.`,
+    img: "/project/sliderTask.png",
+    type: "puer",
+    tools: ['HTML', 'CSS', 'Js', 'Fontawesome'],
+    demo: "https://github.com/barmajli2/Slider-Task",
+    repo: "https://slider-task-seven.vercel.app/",
+  },
 ];
 
 // Navbar links Router
